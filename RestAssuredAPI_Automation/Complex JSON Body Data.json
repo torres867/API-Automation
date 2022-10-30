@@ -1,0 +1,16 @@
+{
+ "First_Name" : "Nikhil",
+ "Last_Name" : "Naz",
+ "id" : "V-9682",
+ "Designation" : "Software Devlopment Engineer 3",
+ "Address" : 
+   {
+     "Type" : "Primary Address",
+     "Block" : "F4/L",
+     "House No." : "259",
+     "Apartment" : "Abhimanyu",
+     "Place": "Vasundhara Enclave",
+     "City" : "Delhi"
+   }
+
+}
