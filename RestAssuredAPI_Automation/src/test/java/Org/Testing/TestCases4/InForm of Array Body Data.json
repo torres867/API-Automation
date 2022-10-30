@@ -1,0 +1,25 @@
+{
+ "First_Name" : "Himanshu",
+ "Last_Name"  : "Garg",
+ "id" : "V-968",
+ "Designation" : "Test Engineer",
+ "Address" :
+ [
+   {
+    "Type" : "Primary Address",
+    "Block" : "H6/K",
+    "House No." : "234",
+    "Apartment" : "Royal Estate",
+    "Place" : "Dwarka Sector 6"
+    },
+    
+    {
+    "Type" : "Secondary Address",
+    "Block" : "H7/K",
+    "House No." : "235",
+    "Apartment" : "Royal High",
+    "Place" : "Dwarka Sector 5"
+    }
+ 
+ ]
+}
