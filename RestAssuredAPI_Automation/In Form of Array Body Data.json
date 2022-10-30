@@ -1,0 +1,38 @@
+{
+  "First_Name" : "Vaibhav",
+  "Last_Name"  : "Verma", 
+  "id" : "V-7854",
+  "Address" :
+   [
+     {
+      "Type" : "Primary Address",
+      "Block" : "A3/6",
+      "House No." : "2134",
+      "Apartment" : "Maitri",
+      "Place" : "Mayur Vihar Phase 1",
+      "City" : "Delhi"
+      },
+      
+      {
+       "Type" : "Secondary Address",
+       "Block" : "A7/6",
+       "House No." : "2139",
+       "Apartment" : "Sargodha",
+       "Place" : "Mayur Vihar Phase 3",
+       "City" : "Delhi"
+      }
+    ],
+   "Job" :
+    [
+      {
+       "Job Location" : "Gurgaon",
+       "Company Name" : "HCL",
+       "Designation" : "Software Development Engineer in Test 2"
+      },
+      {
+       "Domain" : "E-Commerce",
+       "Project" : "Amazon",
+       "Module Automation" : "Home Page, Checkout Page, Product Description Page(PDP)"
+      }
+    ]
+}
