@@ -7,7 +7,7 @@
      {
       "Type" : "{{Type}}",
       "Block" : "{{Block}}",
-      "House No." : "{{}}House_No}}",
+      "House No." : "{{House_No}}",
       "Apartment" : "{{Apartment}}",
       "Place" : "{{Place}}",
       "City" : "{{City}}"
@@ -16,7 +16,7 @@
    "Job" :
     [
       {
-       "Job Location" : "{{JobLoaction}}",
+       "Job Location" : "{{JobLocation}}",
        "Company Name" : "{{CompanyName}}",
        "Designation" : "{{Designation}}"
       }
