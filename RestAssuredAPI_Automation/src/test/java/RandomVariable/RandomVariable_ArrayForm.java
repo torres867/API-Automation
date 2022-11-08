@@ -24,7 +24,7 @@ public class RandomVariable_ArrayForm
 		JSONTokener JT = new JSONTokener(FR);
 		JSONObject JS = new JSONObject(JT);
 		
-		// ID
+		// id
 		Random R = new Random();
 		Integer number = R.nextInt();
 		String jsondata = JS.toString();
