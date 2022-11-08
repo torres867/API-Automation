@@ -59,6 +59,7 @@ public class RandomVariable_ArrayForm
 		System.out.println("Enter the House No.");
 		Scanner S5 = new Scanner(System.in);
 		String House_No = S5.next();
+		jsondata = jsondata.replaceAll(Pattern.quote("{{House_No}}"),House_No);
 		
 		// Apartment
 		System.out.println("Enter the Apartment");
