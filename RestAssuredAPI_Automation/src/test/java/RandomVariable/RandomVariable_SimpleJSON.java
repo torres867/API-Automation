@@ -62,6 +62,7 @@ public class RandomVariable_SimpleJSON
 	    given()
 	    .contentType(ContentType.JSON)
 	    .body(jsondata)
+            .when()
 	    .post("http://localhost:3000/JavascriptFolks");
 	    
 	    // Printing the Status Code and Response Code
