@@ -1,0 +1,16 @@
+{
+ "First_Name" : "{{First_Name}}",
+ "Last_Name" : "{{Last_Name}}",
+ "id" : "{{id}}",
+ "Designation" : "{{Designation}}",
+ "Address" : 
+   {
+     "Type" : "{{Type}}",
+     "Block" : "{{Block}}",
+     "House No." : "{{House_No}}",
+     "Apartment" : "{{Apartment}}",
+     "Place": "{{Place}}",
+     "City" : "{{City}}"
+   }
+
+}
